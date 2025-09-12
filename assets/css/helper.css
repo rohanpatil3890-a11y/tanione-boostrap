@@ -1,0 +1,26 @@
+ul,ol{
+	list-style:none;
+}
+
+.pri-heading{
+	color:#010101;
+	font-size:32px;
+	font-weight:bold;
+	margin-bottom:25px;
+}
+
+.sec-heading{
+	color:#313841;
+	font-size:20px;
+	font-weight:400;
+	margin-bottom:20px;
+}
+
+.inspire .header-list li{
+	display:inline-block;
+	margin-left:20px;
+}
+
+.inspire .header-list a i{
+	color:#010101;
+}
